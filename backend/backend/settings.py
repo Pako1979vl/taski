@@ -13,7 +13,8 @@ ALLOWED_HOSTS = [
     '51.250.30.118',
     '127.0.0.1',
     'localhost',
-    'taskipako.ddns.net'
+    'taskipako.ddns.net',
+    'www.taskipako.ddns.net'
 ]
 
 
